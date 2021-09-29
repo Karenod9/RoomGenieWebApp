@@ -8,18 +8,18 @@ Vist the following link:   http://adminroomgenie-env.eba-bcp9azrk.eu-west-1.elas
 
 Use the following login credentials:
 
-Username:
+Username: 
 
 Password:
 
 
 # Access the Frontend Module (Guest Dashboard)
-Vist the following link: http://guestroomgenie-env.eba-p3un9pum.eu-west-1.elasticbeanstalk.com/Roomgenie/login
+Vist the following link: http://guestroomgenie-env.eba-ecdbpcst.eu-west-1.elasticbeanstalk.com/Roomgenie/login
 
 Use the following login credentials:
 
-Username:
+Username: 
 
-Password:
+Password: 
 
 
